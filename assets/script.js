@@ -18,9 +18,10 @@ function writePassword() {
     var Result = "";
     var Plength = prompt("Enter length of Password between 8 and 128");
     
-    if(!Plength||Plength>128||Plength<8){
-      Result = "Error, Wrong input"
-      return Result;
+    if(Plength<=128 && Plength>=8){
+    }else{
+        Result = "Error, Wrong input"
+        return Result;
     }
     
     //instead of prompting the user for input, made it easier for the user using confirm 

@@ -4,6 +4,10 @@
 
 In this weeks homework we were given a starter code in which we add codes to a script.js file so that a user can generate passwords after making choice in which what the password is going to contain, for example "is the password going to contain number?"
 
+## URL
+
+https://seaweedq12.github.io/password-generator/a
+
 ## Work
 
 1. Firstly when the generate button is pressed the user is prompt to a input in which the user is ask to enter the length of the password between 8 and 128 characters.
