@@ -6,7 +6,7 @@ In this weeks homework we were given a starter code in which we add codes to a s
 
 ## URL
 
-https://seaweedq12.github.io/password-generator/a
+https://seaweedq12.github.io/password-generator/
 
 ## Work
 
